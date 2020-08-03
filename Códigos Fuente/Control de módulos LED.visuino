@@ -1,0 +1,205 @@
+{
+  "Config": {
+    "Build": {
+      "Board": "arduino:avr:nano:cpu=atmega328"
+    }
+  },
+  "Version": "2",
+  "Product": "Visuino - Visual Arduino Programming",
+  "Content": "OpenWire Diagram",
+  "Units": [
+    {
+      "Type": "Diagram",
+      "Name": "__OpenWireRootUnit__",
+      "*": [
+        {
+          "X": 496,
+          "Name": "Arduino",
+          "Instance": {
+            "AnalogInput": {
+              "*": [
+                {
+                  "+": "TArduinoAnalogOptionalAsDigitalInputChannel"
+                },
+                {
+                  "+": "TArduinoAnalogOptionalAsDigitalInputChannel"
+                }
+              ]
+            },
+            "Serial": {
+              "*": [
+                {
+                  "+": "TArduinoHardwareSerial"
+                }
+              ]
+            },
+            "+": "TArduinoBoard",
+            "AnalogInputReference": "Default",
+            "Modules": {
+              "*": [
+                {
+                  "+": "TArduinoEEPROMModule"
+                },
+                {
+                  "+": "TArduinoProcessor328Module"
+                },
+                {
+                  "+": "TArduinoWatchdogTimerModule"
+                }
+              ]
+            },
+            "I2CChannels": {
+              "*": [
+                {
+                  "+": "TArduinoI2C"
+                }
+              ]
+            },
+            "Digital": {
+              "*": [
+                {
+                  "+": "TArduinoAdditionalDigitalSerial0Channel"
+                },
+                {
+                  "+": "TArduinoAdditionalDigitalSerial0Channel"
+                },
+                {
+                  "+": "TArduinoAdditionalDigitalInterruptChannel"
+                },
+                {
+                  "AnalogInputPin": {
+                    "SourcePin": {
+                      "ID": "__OpenWireRootUnit__.SineAnalogGenerator1.OutputPin"
+                    }
+                  },
+                  "+": "TArduinoBasicDigitalPWMInterruptChannel"
+                },
+                {
+                  "+": "TArduinoAdditionalDigitalChannel"
+                },
+                {
+                  "AnalogInputPin": {
+                    "SourcePin": {
+                      "ID": "__OpenWireRootUnit__.SineAnalogGenerator2.OutputPin"
+                    }
+                  },
+                  "+": "TArduinoBasicDigitalPWMChannel"
+                },
+                {
+                  "AnalogInputPin": {
+                    "SourcePin": {
+                      "ID": "__OpenWireRootUnit__.SineAnalogGenerator3.OutputPin"
+                    }
+                  },
+                  "+": "TArduinoBasicDigitalPWMChannel"
+                },
+                {
+                  "+": "TArduinoAdditionalDigitalChannel"
+                },
+                {
+                  "+": "TArduinoAdditionalDigitalChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalPWMChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalPWMChannel"
+                },
+                {
+                  "+": "TArduinoBasicDigitalPWMSPI0Channel"
+                },
+                {
+                  "+": "TArduinoAdditionalDigitalSPI0Channel"
+                },
+                {
+                  "+": "TArduinoAdditionalDigitalSPI0Channel"
+                },
+                {
+                  "+": "TArduinoCombinedAnalogDigitalChannel"
+                },
+                {
+                  "+": "TArduinoCombinedAnalogDigitalChannel"
+                },
+                {
+                  "+": "TArduinoCombinedAnalogDigitalChannel"
+                },
+                {
+                  "+": "TArduinoCombinedAnalogDigitalChannel"
+                },
+                {
+                  "+": "TArduinoCombinedAnalogDigitalI2C0Channel"
+                },
+                {
+                  "+": "TArduinoCombinedAnalogDigitalI2C0Channel"
+                }
+              ]
+            },
+            "SPIChannels": {
+              "*": [
+                {
+                  "+": "TArduinoSPI"
+                }
+              ]
+            },
+            "BoardType": "Arduino Nano"
+          },
+          "Type": "Component",
+          "Y": 256
+        },
+        {
+          "X": 256,
+          "Name": "SineAnalogGenerator1",
+          "Instance": {
+            "OutputPin": {
+              "SinkPins": [
+                {
+                  "Name": "__OpenWireRootUnit__.Arduino.Digital.Digital[ 3 ].AnalogInputPin",
+                  "ID": "__OpenWireRootUnit__.Arduino.Digital._Item3.AnalogInputPin"
+                }
+              ]
+            },
+            "+": "TArduinoSineGenerator"
+          },
+          "Type": "Component",
+          "Y": 528
+        },
+        {
+          "X": 256,
+          "Name": "SineAnalogGenerator2",
+          "Instance": {
+            "Frequency": 0.300000011920929,
+            "OutputPin": {
+              "SinkPins": [
+                {
+                  "Name": "__OpenWireRootUnit__.Arduino.Digital.Digital[ 5 ].AnalogInputPin",
+                  "ID": "__OpenWireRootUnit__.Arduino.Digital._Item5.AnalogInputPin"
+                }
+              ]
+            },
+            "+": "TArduinoSineGenerator"
+          },
+          "Type": "Component",
+          "Y": 608
+        },
+        {
+          "X": 256,
+          "Name": "SineAnalogGenerator3",
+          "Instance": {
+            "Frequency": 0.100000001490116,
+            "OutputPin": {
+              "SinkPins": [
+                {
+                  "Name": "__OpenWireRootUnit__.Arduino.Digital.Digital[ 6 ].AnalogInputPin",
+                  "ID": "__OpenWireRootUnit__.Arduino.Digital._Item6.AnalogInputPin"
+                }
+              ]
+            },
+            "+": "TArduinoSineGenerator"
+          },
+          "Type": "Component",
+          "Y": 688
+        }
+      ]
+    }
+  ]
+}
