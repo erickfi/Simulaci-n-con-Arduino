@@ -29,7 +29,12 @@ Al permitir realizar diferentes controles gracias a su variada gama de component
 ## PROGRAMACIÓN DE MÓDULOS LED RGB
 Una de las prácticas más comunes al comenzar a usar arduino como microcontrolador de sistemas con componentes electrónicos es el control de luces, ya sea por períodods de tiempo o variación de funciones, a continuación de presenta una guía de como realizar el control, esto se realizará usando un sotfware de simulación, para evitar adentrarse en las especificaciones técnicas de programación en un determinado lenguaje.
 
-
+### Componentes
+Para realizar la práctica se requieren diversos componentes en caso de que quiera realizarlo usando elementos físicos.
+- Un arduino o una placa compatible con arduino.
+- Un [módulo LED RGB](https://www.iberobotics.com/producto/modulo-led-rgb/).
+- 4 Cables de puente hembra-hembra.
+- Para la simulación se ha usado el programa [visuino o visualino](http://visuino.com/).
 
 
 ### 3. MARCO TEÓRICO
