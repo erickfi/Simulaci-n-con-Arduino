@@ -70,12 +70,15 @@ Para generar el código que usará en su arduino, puede hacerlo precionando F9 o
 ![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/codigo.PNG)
 
 
-### 9. RECOMENDACIONES
+### Recomendaciones
 - Antes de iniciar con la práctica se debe tener instalados los programas a usar.
   - [Visuino](http://visuino.com/) Para la generación del código.
   - [IDE Arduino](https://www.arduino.cc/) Permite descargar el código generado y cargarlo en el Arduino.  
 
-### 11. REFERENCIAS
+### Referencias
 El presente trabajo se realizó de los temas propuesto por el Ing. Darwin Alumema disponibles en su [página](https://sites.google.com/site/mscingdarwinalulema/home?authuser=0) web.
 
 El trabajo se baso en las guías del equipo de [visualino](http://visuino.com/).
+
+### Anexos
+- Para ver los códigos pulse [aquí](https://github.com/erickfi/Simulaci-n-con-Arduino/tree/master/C%C3%B3digos%20Fuente)
