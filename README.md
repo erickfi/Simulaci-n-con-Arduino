@@ -77,4 +77,5 @@ Para generar el código que usará en su arduino, puede hacerlo precionando F9 o
 
 ### 11. REFERENCIAS
 El presente trabajo se realizó de los temas propuesto por el Ing. Darwin Alumema disponibles en su [página](https://sites.google.com/site/mscingdarwinalulema/home?authuser=0) web.
+
 El trabajo se baso en las guías del equipo de [visualino](http://visuino.com/).
