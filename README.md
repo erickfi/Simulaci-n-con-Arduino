@@ -50,6 +50,14 @@ Al iniciar el programa, en la opción de ***herramientas*** del arduino, selecci
 
 ![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/visuino%20img%201.PNG)
 
+#### 1. Configuración de componentes del generador analógico sinusoidal.
+Vamos a realizar el control de 3 diferentes colores de luces, rojo, azul y verde en el led, para ello se usa generadores analógicos sinusoidales, los cuáles para obtener el efecto esperado deberán variar su frecuencia.
+
+**1.1** En el buscador del programa escriba ***sine*** y seleccione la opción ***SineAnalogGenerator*** y arrastre 3 a la pantalla de trabajo.
+
+![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/generadores%20anal%C3%B3gicos.PNG)
+
+
 
 
 ### 5. LISTA DE COMPONENTES
