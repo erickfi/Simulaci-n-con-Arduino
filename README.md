@@ -37,7 +37,7 @@ Para realizar la práctica se requieren diversos componentes en caso de que quie
 - Un arduino o una placa compatible con arduino.
 - Un [módulo LED RGB](https://www.iberobotics.com/producto/modulo-led-rgb/).
 - 4 Cables de puente hembra-hembra, de preferencia naranja, rojo, azul y verde.
-- Para la simulación se ha usado el programa [visuino o visualino](http://visuino.com/).
+- Para la simulación se ha usado el programa [visuino](http://visuino.com/).
 
 ### Conectar el módulo LED.
 
