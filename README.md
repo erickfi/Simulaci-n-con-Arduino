@@ -12,7 +12,7 @@ Para las personas que empiezan a involucrarse en el mundo de la electrónica y e
 
 > El arduino es una placa que tiene todos los elementos necesarios para conectar periféricos a las entradas y salidas de un microcontrolador. Es decir, es una placa impresa con los componentes necesarios para que funcione el microcontrolador y su comunicación con un ordenador a través de la comunicación serial.
 
-### OBJETIVOS
+### Objetivos
 - Comprender qué es y como funciona un Arduino.
 - Realizar simulaciones de procesos usando un Arduino como controlador del proceso.
 
@@ -33,9 +33,13 @@ Una de las prácticas más comunes al comenzar a usar arduino como microcontrola
 Para realizar la práctica se requieren diversos componentes en caso de que quiera realizarlo usando elementos físicos.
 - Un arduino o una placa compatible con arduino.
 - Un [módulo LED RGB](https://www.iberobotics.com/producto/modulo-led-rgb/).
-- 4 Cables de puente hembra-hembra.
+- 4 Cables de puente hembra-hembra, de preferencia naranja, rojo, azul y verde.
 - Para la simulación se ha usado el programa [visuino o visualino](http://visuino.com/).
 
+### Conectar el módulo LED.
+
+
+Para observar paso a paso como conectar el módulo led al arduino, en se siguiente [video](https://www.youtube.com/watch?time_continue=10&v=QC-8zglK8GA&feature=emb_logo) se explica el preoceso.
 
 ### 3. MARCO TEÓRICO
 
