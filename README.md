@@ -4,6 +4,9 @@
 **Autor:** Figueroa Erick.
 
 ### ¿Qué es Arduino?
+
+![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/Arduino.PNG)
+
 En la actualidad la tecnología está presente de forma más significativa en nuestro diario vivir, desde sus inicios su objetivo ha sido mejorar la calidad de vida de las personas, actualmente gracias al desarrollo tecnológico podemos comunicarnos grandes distancias en cuestión de segundos y en tiempo real, e incluso poder controlar nuestro hogar desde nuestro celular, esto se debe al uso e instalación de componentes electrónicos, lo cuáles están presentes en todo nuestro alrededor.
 
 Uno de los componentes más utilizados, de fácil control y operación es el [Arduino](https://www.arduino.cc/), que podemos llamarlo el punto de partida en el inicio de la automatización de control de un sistema con componentes electrónicos y/o mecánicos, una de sus principales aplicaciones es el control de las luces de los semáforos, no obstante, no es la única que existe.
@@ -38,10 +41,15 @@ Para realizar la práctica se requieren diversos componentes en caso de que quie
 
 ### Conectar el módulo LED.
 
+![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/modulo%20led.PNG)
 
 Para observar paso a paso como conectar el módulo led al arduino, en se siguiente [video](https://www.youtube.com/watch?time_continue=10&v=QC-8zglK8GA&feature=emb_logo) se explica el preoceso.
 
-### 3. MARCO TEÓRICO
+### Programa con visuino
+Al iniciar el programa, en la opción de ***herramientas*** del arduino, seleccionar el tipo de Arduino a utilizar.
+
+![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/visuino%20img%201.PNG)
+
 
 
 ### 5. LISTA DE COMPONENTES
