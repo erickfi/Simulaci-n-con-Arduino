@@ -13,7 +13,17 @@ Para las personas que empiezan a involucrarse en el mundo de la electrónica y e
 > El arduino es una placa que tiene todos los elementos necesarios para conectar periféricos a las entradas y salidas de un microcontrolador. Es decir, es una placa impresa con los componentes necesarios para que funcione el microcontrolador y su comunicación con un ordenador a través de la comunicación serial.
 
 ### 2. OBJETIVOS
+- Comprender qué es y como funciona un Arduino.
+- Realizar simulaciones de procesos usando un Arduino como controlador del proceso.
 
+### 3. ¿Cómo funciona Arduino?
+Anteriormente se habia asociado al arduino con los microcontroladores por lo que su funcionamiento va a ser similar.
+- **Cuenta con una interfaz de entrada.** Esta puede estar directamente unida a los periféricos , o conectarse a ellos a través de puertos.
+- **La interfaz de entrada** Tiene como objetivo trasladar la información al microcontrolador.
+- **El microcontrolador** Es la pieza que se encarga de procesar esos datos. Además, varía dependiendo de las necesidades del proyecto en el que se desee usar la placa, y existe una gran variedad de fabricantes y versiones disponibles.
+- **Interfaz de salida.** Este se encarga de llevar la información procesada a los periféricos autorizados de hacer el uso final de esos datos. En algunos casos puede tratarse de otra placa en la que se centraliza y procesa la información de forma totalmente renovada, o sencillamente, puede ser una pantalla o un altavoz encargado de mostrar la versión final de los datos.
+
+Al permitir realizar diferentes controles gracias a su variada gama de componentes, para realizar un proceso en específico se debe programar en lenguaje C.
 ### 3. MARCO TEÓRICO
 
 
