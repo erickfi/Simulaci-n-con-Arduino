@@ -57,8 +57,12 @@ Vamos a realizar el control de 3 diferentes colores de luces, rojo, azul y verde
 
 ![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/generadores%20anal%C3%B3gicos.PNG)
 
+Al seleccionar los generadores analógicos procedemos a variar su frecuencia, 0.3 y 0.1 para el ***SineAnalogGenerator2*** y ***SineAnalogGenerator3*** respectivamente.
 
+**1.2** Conecte los componentes al simulador del arduino.
+- El pin **Out** de los ***SineAnalogGenerator 1, 2 y 3*** al ping de entrada ***Analog*** de los ***canales digitales 3, 5 y 6*** respectivamente.
 
+![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/conexion%201.PNG)
 
 ### 5. LISTA DE COMPONENTES
 
