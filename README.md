@@ -1,12 +1,9 @@
 ## UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Escudo.jpg)
-### Práctica de laboratorio N° 6
-## Teorema de la Máxima Transferencia de Potencia
-**Autores:** Figueroa Erick, León Jipshon,Viracucha William.
-### 1. PLANTEAMIENTO DEL PROBLEMA
-Al momento de diseñar un circuito eléctrico, por lo general, se busca que el circuito cumpla su trabajo, es decir, que los elementos electrónicos del mismo realicen el trabajo, pero no se toma en cuenta la eficacia para realizar este trabajo, recordando que la potencia representa la tasa de la energía que se convierte en trabajo, existen circuitos que buscan precisamente este objetivo, entregar la máxima potencia de tal forma que el trabajo se realice de ser posible sin pérdida de energía.
+### Simulación con Arduino
+**Autor:** Figueroa Erick.
 
-Por otro lado, para conocer la potencia que entrega un circuito es necesario analizar todos los componentes del mismo, aunque este proceso se puede simplificar si usamos el [Teorema de Thévenin](https://github.com/erickfi/Practica-5), de esta forma simplificamos el circuito y obtenemos un circuito simplificado para carga variable, su aplicación en la ingeniería es fundamental, ya que es importante en los procesos de automatización donde se busca que las máquinas funcionen a su máxima capacidad, es decir, que tengan una máxima potencia.
+### 1. PLANTEAMIENTO DEL PROBLEMA
 
 
 ### 2. OBJETIVOS
