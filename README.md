@@ -64,20 +64,10 @@ Al seleccionar los generadores analógicos procedemos a variar su frecuencia, 0.
 
 ![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/conexion%201.PNG)
 
-### 5. LISTA DE COMPONENTES
+### Generar el código de Arduino
+Para generar el código que usará en su arduino, puede hacerlo precionando F9 o dando click en el ícono del arduino.
 
-
-
-### 6. TABLA DE RESULTADOS
-
-
-
-### 7. Explicación de Código Fuente
-
-
-
-### 8. CONCLUSIONES
-
+![](https://github.com/erickfi/Simulaci-n-con-Arduino/blob/master/Imgs/codigo.PNG)
 
 
 ### 9. RECOMENDACIONES
