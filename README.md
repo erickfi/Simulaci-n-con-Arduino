@@ -4,7 +4,9 @@
 **Autor:** Figueroa Erick.
 
 ### 1. PLANTEAMIENTO DEL PROBLEMA
+En la actualidad la tecnología está presente de forma más significativa en nuestro diario vivir, desde sus inicios su objetivo ha sido mejorar la calidad de vida de las personas, actualmente gracias al desarrollo tecnológico podemos comunicarnos grandes distancias en cuestión de segundos y en tiempo real, e incluso poder controlar nuestro hogar desde nuestro celular, esto se debe al uso e instalación de componentes electrónicos, lo cuáles están presentes en todo nuestro alrededor.
 
+Uno de los componentes más utilizados, de fácil control y operación es el [Arduino](https://www.arduino.cc/), que podemos llamarlo el punto de partida en el inicio de la automatización de control de un sistema con componentes electrónicos y/o mecánicos.
 
 ### 2. OBJETIVOS
 
@@ -31,8 +33,4 @@
 
 
 ### 11. REFERENCIAS
-- [1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 ### 12. ANEXOS
-- [Cálculos análiticos](https://github.com/erickfi/Laboratorio-6/blob/master/Anexos/Anexos%20lab%206.pdf)
-- [Cómo funciona el circuito](https://www.youtube.com/watch?v=pdyatt-rUAg&feature=youtu.be)
-- [Cómo se implementó el circuito](https://www.youtube.com/watch?v=wW0A3P_5MHM&feature=youtu.be)
